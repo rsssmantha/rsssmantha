@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning ...
-###     -  General Programming languages  
+###     -  General programming languages  
 ###     -  Web development
 
 
 ### 🤔 I’m looking for help with ...
-###     -  Exploring programimng in Python, JavaScript
+###     -  Exploring programming in Python, JavaScript
 ###     -  Guidance in finding open source projects and other work to practice
 
 

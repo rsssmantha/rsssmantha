@@ -21,6 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning 
-###     - General Programming languages  
-###     - Web development
+### 🌱 I’m currently learning ...
+###     -  General Programming languages  
+###     -  Web development
+
+
+### 🤔 I’m looking for help with ...
+###     -  Exploring programimng in Python, JavaScript
+###     -  Guidance in finding open source projects and other work to practice
+
+
+### 💬 Ask me about ...
+###     -  SAP product
+

@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I am a Senior Application Developer at Bath and Body works.
+### I am a Senior Application Developer at Bath and Body works.
+
+### I have been working on SAP technologies for over a decade now. 
 
 
 
@@ -19,4 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on
+### 🌱 I’m currently learning 
+###     - General Programming languages  
+###     - Web development

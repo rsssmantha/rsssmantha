@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# I am deve
+## I am a Senior Application Developer at Bath and Body works.
+
+
 
 <!--
 **rsssmantha/rsssmantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

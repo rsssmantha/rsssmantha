@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 
 ### 💬 Ask me about ...
-###     -  SAP product
+###     -  SAP products
 

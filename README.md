@@ -2,7 +2,7 @@
 
 ### I am a Senior Application Developer at Bath and Body works.
 
-### I have been working on SAP technologies for over a decade now. 
+### I have been working in SAP space for over a decade now. 
 
 
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 ###     -  General programming languages  
 ###     -  Web development
+###     -  AI 
 
 
 ### 🤔 I’m looking for help with ...
